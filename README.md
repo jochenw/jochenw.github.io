@@ -1,5 +1,4 @@
 # jochenw.github.io
-Content of http://jochenw.github.io
 
   Home of the following projects (all Apache Software License 2.0)
   
