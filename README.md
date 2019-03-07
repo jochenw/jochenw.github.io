@@ -5,3 +5,5 @@
   * [JSGen (Java Source Generation Framework)](https://jochenw.github.io/jsgen)
   * [ICM (Incremental Change Manager)](https://github.com/jochenw/icm)
   * [AFW (Application Framework)](https://github.com/jochenw/afw)
+  * [QSE (Quick Scanning Engine)](https://github.com/jochenw/qse)
+
